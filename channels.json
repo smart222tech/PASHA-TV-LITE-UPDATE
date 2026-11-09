@@ -1,5 +1,12 @@
 {
   "schemaVersion": 1,
   "updatedAt": "2026-11-09",
-  "channels": []
+  "channels": [
+    {
+      "id": "friday",
+      "name": "Пятница!",
+      "url": "https://vod.tuva.ru/friday/tracks-v1a1/mono.ts.m3u8",
+      "group": "Россия"
+    }
+  ]
 }
