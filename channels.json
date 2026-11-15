@@ -13,6 +13,12 @@
       "name": "Домашний",
       "url": "https://s.tivix.co/8Hq57eeTwT5VWYVj00SvkQ/561/1794750130/index.m3u8?k=1794750127p031i502i711i59Sdb166818250f54872b1abdcead8984c1",
       "group": "Россия"
+    },
+    {
+      "id": "domashniy-2",
+      "name": "Домашний 2",
+      "url": "https://streaming.skynetconnect.co.za/live/17-req_offset_28000000-req_window_0-3k_v5.m3u8",
+      "group": "Россия"
     }
   ]
 }
