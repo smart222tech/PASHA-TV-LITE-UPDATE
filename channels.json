@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-15",
+  "updatedAt": "2026-11-17",
   "channels": [
     {
       "id": "friday",
@@ -24,6 +24,18 @@
       "id": "domashniy-3",
       "name": "Домашний 3",
       "url": "https://nlv3.sysnet.top/video/nU8fpJDjIhyji0dOEtzhBg/10/playlist.m3u8",
+      "group": "Россия"
+    },
+    {
+      "id": "domashniy-user-20261117",
+      "name": "Домашний",
+      "url": "https://fs.uplink.kz/domashniy/mono.m3u8?token=onlinetv",
+      "group": "Россия"
+    },
+    {
+      "id": "russia-rtr-user-20261117",
+      "name": "Россия РТР",
+      "url": "https://streaming.thestream.cyou/live/211.m3u8",
       "group": "Россия"
     }
   ]
