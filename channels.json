@@ -49,6 +49,12 @@
       "name": "НТВ Мир",
       "url": "https://streaming.thestream.cyou/live/213.m3u8",
       "group": "Россия"
+    },
+    {
+      "id": "russia-24-user-20261117",
+      "name": "Россия 24",
+      "url": "http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA24_INT.m3u8",
+      "group": "Россия"
     }
   ]
 }
