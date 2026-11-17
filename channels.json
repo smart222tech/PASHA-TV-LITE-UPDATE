@@ -37,6 +37,18 @@
       "name": "Россия РТР",
       "url": "https://streaming.thestream.cyou/live/211.m3u8",
       "group": "Россия"
+    },
+    {
+      "id": "ntv-user-20261117",
+      "name": "НТВ",
+      "url": "https://stream8.cinerama.uz/1023/tracks-v1a1/mono.m3u8",
+      "group": "Россия"
+    },
+    {
+      "id": "ntv-mir-user-20261117",
+      "name": "НТВ Мир",
+      "url": "https://streaming.thestream.cyou/live/213.m3u8",
+      "group": "Россия"
     }
   ]
 }
