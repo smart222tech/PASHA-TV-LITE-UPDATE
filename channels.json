@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-17",
+  "updatedAt": "2026-11-18",
   "channels": [
     {
       "id": "friday",
@@ -54,6 +54,12 @@
       "id": "russia-24-user-20261117",
       "name": "Россия 24",
       "url": "http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA24_INT.m3u8",
+      "group": "Россия"
+    },
+    {
+      "id": "russia-24-cinerama-user-20261118",
+      "name": "Россия 24",
+      "url": "https://stream8.cinerama.uz/1021/tracks-v1a1/mono.m3u8",
       "group": "Россия"
     }
   ]
